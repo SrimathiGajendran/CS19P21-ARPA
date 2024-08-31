@@ -1,0 +1,78 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "intResult&Sequence_1",
+        "intSecondno&Sequence_1",
+        "intFirstno&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Rethrow.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "intFirstno&Sequence_2",
+        "intSecondno&Sequence_2",
+        "intResult&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Without_TryCatch.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Demo.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "intFirstno&Sequence_2",
+        "intSecondno&Sequence_2",
+        "intResult&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Throw_BusinessRuleException.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "intFirstno&Sequence_2",
+        "intSecondno&Sequence_2",
+        "intResult&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "RetryScope.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "found&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
