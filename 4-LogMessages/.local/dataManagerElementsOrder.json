@@ -1,0 +1,67 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "intcount&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "ConditionalBreakpoint.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "age&Sequence_1",
+        "count&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "logfiles.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "intb&Sequence_1",
+        "inta&Sequence_1",
+        "intResult&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "AnalyzeFiles.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "a&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "LocalWatchImmediate.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "intFirst&Sequence_1",
+        "intSecond&Sequence_1",
+        "intResult&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
