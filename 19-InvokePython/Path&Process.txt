@@ -1,0 +1,9 @@
+C:\Users\srimathi\AppData\Local\Programs\Python
+
+C:\Users\srimathi\AppData\Local\Programs\Python\Python312
+
+C:\Users\srimathi\AppData\Local\Programs\Python\Python312\python312.dll
+
+https://www.uipath.com/resources/automation-whitepapers
+
+https://www.uipath.com/resources/automation-case-studies
