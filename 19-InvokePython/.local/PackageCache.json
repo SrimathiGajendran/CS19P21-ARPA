@@ -96,6 +96,18 @@
     },
     {
       "Package": {
+        "Id": "UiPath.Python.Activities",
+        "Version": "1.6.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\srimathi\\.nuget\\packages\\uipath.python.activities\\1.6.0\\lib/net5.0-windows7.0/UiPath.Python.Activities.Design.dll",
+        "C:\\Users\\srimathi\\.nuget\\packages\\uipath.python.activities\\1.6.0\\lib/net5.0-windows7.0/UiPath.Python.Activities.dll",
+        "C:\\Users\\srimathi\\.nuget\\packages\\uipath.python.activities\\1.6.0\\lib/net5.0-windows7.0/UiPath.Python.dll"
+      ],
+      "Path": "C:\\Users\\srimathi\\.nuget\\packages\\uipath.python.activities\\1.6.0"
+    },
+    {
+      "Package": {
         "Id": "UiPath.System.Activities",
         "Version": "24.10.3"
       },
@@ -269,18 +281,6 @@
         "C:\\Users\\srimathi\\.nuget\\packages\\uipath.vision\\3.13.2\\lib/net6.0-windows7.0/UiPath.Vision.dll"
       ],
       "Path": "C:\\Users\\srimathi\\.nuget\\packages\\uipath.uiautomation.activities\\24.10.0"
-    },
-    {
-      "Package": {
-        "Id": "UiPath.Python.Activities",
-        "Version": "1.6.0"
-      },
-      "Assemblies": [
-        "C:\\Users\\srimathi\\.nuget\\packages\\uipath.python.activities\\1.6.0\\lib/net5.0-windows7.0/UiPath.Python.Activities.Design.dll",
-        "C:\\Users\\srimathi\\.nuget\\packages\\uipath.python.activities\\1.6.0\\lib/net5.0-windows7.0/UiPath.Python.Activities.dll",
-        "C:\\Users\\srimathi\\.nuget\\packages\\uipath.python.activities\\1.6.0\\lib/net5.0-windows7.0/UiPath.Python.dll"
-      ],
-      "Path": "C:\\Users\\srimathi\\.nuget\\packages\\uipath.python.activities\\1.6.0"
     }
   ],
   "Conflicts": [],

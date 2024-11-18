@@ -22183,9 +22183,9 @@
     "restore": {
       "projectUniqueName": "PythonEx",
       "projectName": "PythonEx",
-      "projectPath": "C:\\Users\\srimathi\\OneDrive\\Documents\\UiPath\\PythonEx\\.local",
+      "projectPath": "C:\\Users\\srimathi\\OneDrive\\Documents\\UiPath\\CS19P21-ARPA\\19-InvokePython\\.local",
       "packagesPath": "C:\\Users\\srimathi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\srimathi\\OneDrive\\Documents\\UiPath\\PythonEx\\.local"
+      "outputPath": "C:\\Users\\srimathi\\OneDrive\\Documents\\UiPath\\CS19P21-ARPA\\19-InvokePython\\.local"
     },
     "frameworks": {
       "net8.0-windows7.0": {
@@ -22221,7 +22221,7 @@
             "version": "[24.10.0, 24.10.0]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\UiPath\\Studio\\PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\srimathi\\AppData\\Local\\Programs\\UiPath\\Studio\\PortableRuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

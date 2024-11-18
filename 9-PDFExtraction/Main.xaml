@@ -110,7 +110,7 @@
       <AssemblyReference>UiPath.Excel</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence sap2010:Annotation.AnnotationText="210701259_Srimathi G" DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="496,1564.8" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence sap2010:Annotation.AnnotationText="210701259_Srimathi G" DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="892.0000000000001,1499.2" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="x:String" Name="strText" />
       <Variable x:TypeArguments="x:String" Name="CompanyName" />
@@ -143,7 +143,7 @@
         <OutArgument x:TypeArguments="x:String">[CompanyName]</OutArgument>
       </Assign.To>
       <Assign.Value>
-        <InArgument x:TypeArguments="x:String">[strText.Split(Environment.NewLine.ToCharArray)(2)]</InArgument>
+        <InArgument x:TypeArguments="x:String">[strText.Split(Environment.NewLine)(1)]</InArgument>
       </Assign.Value>
     </Assign>
     <Assign sap:VirtualizedContainerService.HintSize="433.6,113.6" sap2010:WorkflowViewState.IdRef="Assign_2">

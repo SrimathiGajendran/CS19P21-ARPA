@@ -22270,9 +22270,9 @@
     "restore": {
       "projectUniqueName": "DataScrapping_sem7",
       "projectName": "DataScrapping_sem7",
-      "projectPath": "C:\\Users\\srimathi\\OneDrive\\Documents\\UiPath\\DataScrapping_sem7\\.local",
+      "projectPath": "C:\\Users\\srimathi\\OneDrive\\Documents\\UiPath\\CS19P21-ARPA\\11-DataScrapping-CustomerSuccessStories\\.local",
       "packagesPath": "C:\\Users\\srimathi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\srimathi\\OneDrive\\Documents\\UiPath\\DataScrapping_sem7\\.local"
+      "outputPath": "C:\\Users\\srimathi\\OneDrive\\Documents\\UiPath\\CS19P21-ARPA\\11-DataScrapping-CustomerSuccessStories\\.local"
     },
     "frameworks": {
       "net8.0-windows7.0": {
@@ -22308,7 +22308,7 @@
             "version": "[24.10.0, 24.10.0]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\UiPath\\Studio\\PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\srimathi\\AppData\\Local\\Programs\\UiPath\\Studio\\PortableRuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

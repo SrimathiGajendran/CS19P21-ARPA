@@ -65,7 +65,7 @@
       <AssemblyReference>System.Reflection.Metadata</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence sap2010:Annotation.AnnotationText="210701259_Srimathi G" DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="416,855.2" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence sap2010:Annotation.AnnotationText="210701259_Srimathi G" DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="795.2,789.6" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="x:Int32" Name="intFirstno" />
       <Variable x:TypeArguments="x:Int32" Name="intSecondNo" />
@@ -76,17 +76,17 @@
         <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <ui:InputDialog Options="{x:Null}" OptionsString="{x:Null}" DisplayName="Input Dialog" sap:VirtualizedContainerService.HintSize="353.6,273.6" sap2010:WorkflowViewState.IdRef="InputDialog_1" IsPassword="False" Label="Enter first No" Title="RPA">
+    <ui:InputDialog Options="{x:Null}" OptionsString="{x:Null}" DisplayName="Input Dialog" sap:VirtualizedContainerService.HintSize="416,273.6" sap2010:WorkflowViewState.IdRef="InputDialog_1" IsPassword="False" Label="Enter first No" Title="RPA">
       <ui:InputDialog.Result>
         <OutArgument x:TypeArguments="x:Int32">[intFirstno]</OutArgument>
       </ui:InputDialog.Result>
     </ui:InputDialog>
-    <ui:InputDialog Options="{x:Null}" OptionsString="{x:Null}" DisplayName="Input Dialog" sap:VirtualizedContainerService.HintSize="353.6,273.6" sap2010:WorkflowViewState.IdRef="InputDialog_2" IsPassword="False" Label="Enter second no" Title="RPA">
+    <ui:InputDialog Options="{x:Null}" OptionsString="{x:Null}" DisplayName="Input Dialog" sap:VirtualizedContainerService.HintSize="416,273.6" sap2010:WorkflowViewState.IdRef="InputDialog_2" IsPassword="False" Label="Enter second no" Title="RPA">
       <ui:InputDialog.Result>
         <OutArgument x:TypeArguments="x:Int32">[intSecondNo]</OutArgument>
       </ui:InputDialog.Result>
     </ui:InputDialog>
-    <ui:InvokeCode ContinueOnError="{x:Null}" Code="Int32 result;&#xA;result = first+second;&#xA;Console.WriteLine(&quot;The result is {0} +{1}={2}&quot;,first,second,result);" DisplayName="Invoke Code" sap:VirtualizedContainerService.HintSize="353.6,188" sap2010:WorkflowViewState.IdRef="InvokeCode_1" Language="CSharp">
+    <ui:InvokeCode ContinueOnError="{x:Null}" Code="Int32 result;&#xD;&#xA;result = first+second;&#xD;&#xA;Console.WriteLine(&quot;The result is {0} +{1}={2}&quot;,first,second,result);" DisplayName="Invoke Code" sap:VirtualizedContainerService.HintSize="416,188" sap2010:WorkflowViewState.IdRef="InvokeCode_1" Language="CSharp">
       <ui:InvokeCode.Arguments>
         <InArgument x:TypeArguments="x:Int32" x:Key="first">[intFirstno]</InArgument>
         <InArgument x:TypeArguments="x:Int32" x:Key="second">[intSecondNo]</InArgument>
